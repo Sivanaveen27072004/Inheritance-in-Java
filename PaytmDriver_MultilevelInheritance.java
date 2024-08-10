@@ -1,6 +1,6 @@
 class Mobile
 {
-	String brand;
+	String brand; 
 	double price;
 	Mobile()
 	{
